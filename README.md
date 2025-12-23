@@ -559,11 +559,7 @@ Potential improvements:
 - [ ] Database query cache modeling
 - [ ] Web-based version
 
----
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
@@ -593,3 +589,9 @@ For questions, issues, or suggestions:
 ---
 
 **Happy Caching! 🚀**
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
