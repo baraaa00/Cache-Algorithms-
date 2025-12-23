@@ -10,14 +10,14 @@ A comprehensive, interactive Python application that visualizes and analyzes var
 
 ## 📋 Table of Contents
 
-- (#what-is-this)
-- (#features)
-- (#supported-algorithms)
-- (#how-it-works)
-- (#installation)
-- (#how-to-run)
-- (#usage-guide)
-- (#technical-details)
+- What is This?
+- Features
+- Supported Algorithms
+- How It Works
+- Installation
+- How to Run
+- Usage Guide
+- Technical Details
 
 
 ---
